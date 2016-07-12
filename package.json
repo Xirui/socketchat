@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "botbuilder": "^3.0.1",
     "express": "^4.10.2",
     "jquery": "^3.0.0",
+    "restify": "^4.1.1",
     "socket.io": "^1.4.6"
   }
 }
